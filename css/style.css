@@ -1,0 +1,22 @@
+#title {
+  font-size: 30px;
+  margin-left: 100px;
+}
+.legend{
+box-shadow: 5px 10px
+}
+.tooltip{
+    position: absolute;			
+    padding: 20px;	
+    color: white;
+    font: 13px sans-serif;		
+    background: black;		
+    border-radius: 5px;			
+    pointer-events: none;	
+    align-items: center;
+    width: 170px;
+}
+rect:hover {
+  stroke: black;
+  stroke-width: 2px;
+}
